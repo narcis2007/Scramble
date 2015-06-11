@@ -1,0 +1,2 @@
+A mini-game made using C++ and QT framework for the GUI.
+The player is given a scrambled word and has to guess it. If he guesses the word, the score is raised according to the difficulty of the word (the score is shown as a bar in the middle of the screen) and the guessed word is listed in a table. If the player fails to guess the word 4 times the game resets and the words guessed are saved in a text file.
